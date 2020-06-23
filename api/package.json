@@ -14,7 +14,7 @@
     "automação full stack",
     "node"
   ],
-  "author": "Fernando Papito",
+  "author": "Brendo OLiveira",
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.5.5",
